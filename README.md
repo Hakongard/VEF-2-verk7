@@ -1,1 +1,3 @@
-# VEF-2-verk7
+# VEF-2
+
+## Verkefni 7
